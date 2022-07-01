@@ -1,11 +1,7 @@
 {
-  "players": [
+  "player": [
     {
-      "uuid": "380df991-f603-344c-a090-369bad2a924a",
-      "tier": 3
-    },
-    {
-      "uuid": "b76b1e70-3da5-4f2f-9738-5327923d5e94",
+      "uuid": "5084e6f3-8f54-43f1-8df5-1dca109e430f",
       "tier": 3
     }
   ]
