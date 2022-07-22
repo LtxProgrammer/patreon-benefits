@@ -1,3 +1,12 @@
 {
-  "locations": []
+  "forms": [
+    {
+      "location": "tmp",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [ "GRAY", "WHITE", "WHITE", "WHITE", "WHITE" ],
+      "waterspeed": 1.2,
+      "landspeed": 0.875
+    }
+  ]
 }
