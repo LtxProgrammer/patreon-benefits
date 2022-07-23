@@ -1,5 +1,9 @@
 {
-  "elements": [
+  "resolution": {
+		"width": 64,
+		"height": 64
+	},
+	"elements": [
 		{
 			"name": "Head",
 			"rescale": false,
