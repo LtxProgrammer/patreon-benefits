@@ -4,10 +4,12 @@
       "location": "5084e6f3-8f54-43f1-8df5-1dca109e430f",
       "type": "NEUTRAL",
       "mode": "REPLICATION",
-      "particles": [ "GRAY", "WHITE", "WHITE", "WHITE", "WHITE" ],
+      "particles": [ "gray", "white", "white", "white", "white" ],
       "waterspeed": 1.2,
       "landspeed": 0.875,
-      "shadowsize": 0.5
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.8
     }
   ]
 }
