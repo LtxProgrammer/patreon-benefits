@@ -6,7 +6,8 @@
       "mode": "REPLICATION",
       "particles": [ "GRAY", "WHITE", "WHITE", "WHITE", "WHITE" ],
       "waterspeed": 1.2,
-      "landspeed": 0.875
+      "landspeed": 0.875,
+      "shadowsize": 0.5
     }
   ]
 }
