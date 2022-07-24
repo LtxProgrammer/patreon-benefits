@@ -9,7 +9,10 @@
       "landspeed": 0.875,
       "shadowsize": 0.5,
       "width": 0.7,
-      "height": 1.8
+      "height": 1.8,
+      "breathemode": "ANY",
+      "maxhealth": 20,
+      "canglide": false
     }
   ]
 }
