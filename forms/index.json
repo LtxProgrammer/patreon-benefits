@@ -8,6 +8,7 @@
       "particles": [ "gray", "white", "white", "white", "white" ],
       "waterspeed": 1.2,
       "landspeed": 0.875,
+      "stepsize": 0.7,
       "shadowsize": 0.5,
       "width": 0.7,
       "height": 1.8,
