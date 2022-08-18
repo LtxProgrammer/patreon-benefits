@@ -15,7 +15,9 @@
       "breathemode": "ANY",
       "maxhealth": 20,
       "canglide": false
-    },
+    }
+  ],
+  "toadd": [
     {
       "location": "b76b1e70-3da5-4f2f-9738-5327923d5e94",
       "type": "NEUTRAL",
@@ -30,6 +32,6 @@
       "breathemode": "NORMAL",
       "maxhealth": 20,
       "canglide": false
-    }
+    }  
   ]
 }
