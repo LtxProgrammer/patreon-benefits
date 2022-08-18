@@ -15,6 +15,21 @@
       "breathemode": "ANY",
       "maxhealth": 20,
       "canglide": false
+    },
+    {
+      "location": "b76b1e70-3da5-4f2f-9738-5327923d5e94",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [],
+      "waterspeed": 0.875,
+      "landspeed": 1.075,
+      "stepsize": 0.7,
+      "shadowsize": 0.6,
+      "width": 0.7,
+      "height": 1.8,
+      "breathemode": "NORMAL",
+      "maxhealth": 20,
+      "canglide": false
     }
   ]
 }
