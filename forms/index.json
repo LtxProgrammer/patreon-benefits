@@ -6,7 +6,7 @@
       "type": "NEUTRAL",
       "mode": "REPLICATION",
       "particles": [ "gray", "white", "white", "white", "white" ],
-      "waterspeed": 1.2,
+      "waterspeed": 1.35,
       "landspeed": 0.875,
       "stepsize": 0.7,
       "shadowsize": 0.5,
