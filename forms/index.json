@@ -33,6 +33,20 @@
     }  
   ],
   "toadd": [
-    
+    {
+      "location": "141024f4-43bf-4a63-a8c4-cfe1f4ba2bc2",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [],
+      "waterspeed": 0.875,
+      "landspeed": 1.0,
+      "stepsize": 0.7,
+      "shadowsize": 0.6,
+      "width": 0.7,
+      "height": 1.8,
+      "breathemode": "ANY",
+      "maxhealth": 20,
+      "canglide": true
+    }
   ]
 }
