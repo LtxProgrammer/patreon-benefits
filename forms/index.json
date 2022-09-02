@@ -32,9 +32,7 @@
       "maxhealth": 20,
       "canglide": false,
       "version": 1
-    }  
-  ],
-  "toadd": [
+    },
     {
       "location": "141024f4-43bf-4a63-a8c4-cfe1f4ba2bc2",
       "type": "NEUTRAL",
@@ -52,5 +50,7 @@
       "animation": { "hastail": false, "haswings": false },
       "version": 1
     }
+  ],
+  "toadd": [
   ]
 }
