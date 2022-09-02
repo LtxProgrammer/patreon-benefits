@@ -46,7 +46,8 @@
       "height": 1.8,
       "breathemode": "ANY",
       "maxhealth": 20,
-      "canglide": true
+      "canglide": true,
+      "animation": { "hastail": false, "haswings": false }
     }
   ]
 }
