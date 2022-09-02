@@ -14,7 +14,8 @@
       "height": 1.8,
       "breathemode": "ANY",
       "maxhealth": 20,
-      "canglide": false
+      "canglide": false,
+      "version": 1
     },
     {
       "location": "b76b1e70-3da5-4f2f-9738-5327923d5e94",
@@ -29,7 +30,8 @@
       "height": 1.8,
       "breathemode": "NORMAL",
       "maxhealth": 20,
-      "canglide": false
+      "canglide": false,
+      "version": 1
     }  
   ],
   "toadd": [
@@ -47,7 +49,8 @@
       "breathemode": "ANY",
       "maxhealth": 20,
       "canglide": true,
-      "animation": { "hastail": false, "haswings": false }
+      "animation": { "hastail": false, "haswings": false },
+      "version": 1
     }
   ]
 }
