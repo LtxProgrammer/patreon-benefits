@@ -52,5 +52,21 @@
     }
   ],
   "toadd": [
+    {
+      "location": "ca03e217-a7c0-4a05-851e-e14c92d6d400",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [ "#FECDA2", "#FECDA2", "#FECDA2", "#C97FD4", "#C97FD4" ],
+      "waterspeed": 0.85,
+      "landspeed": 1.09,
+      "stepsize": 0.7,
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.8,
+      "breathemode": "NORMAL",
+      "maxhealth": 20,
+      "canglide": false,
+      "version": 1
+    }
   ]
 }
