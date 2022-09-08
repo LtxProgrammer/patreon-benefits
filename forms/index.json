@@ -49,9 +49,7 @@
       "canglide": true,
       "animation": { "hastail": false, "haswings": false },
       "version": 1
-    }
-  ],
-  "toadd": [
+    },
     {
       "location": "ca03e217-a7c0-4a05-851e-e14c92d6d400",
       "type": "NEUTRAL",
@@ -68,5 +66,7 @@
       "canglide": false,
       "version": 1
     }
+  ],
+  "toadd": [
   ]
 }
