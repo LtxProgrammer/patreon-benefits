@@ -15,7 +15,7 @@
       "breathemode": "ANY",
       "maxhealth": 20,
       "canglide": false,
-      "animation": { "swimtail": false },
+      "animation": { "swimtail": true },
       "version": 1
     },
     {
