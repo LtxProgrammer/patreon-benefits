@@ -123,6 +123,10 @@
     {
       "uuid": "dfb2ff61-a450-45ae-8e92-b3f15a1bad99",
       "tier": 0
+    },
+    {
+      "uuid": "70becc37-360c-49fa-92ed-ef4cc5cc7cfc",
+      "tier": 3
     }
   ]
 }
