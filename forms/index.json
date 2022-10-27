@@ -84,7 +84,24 @@
       "animation": { "haswings": true },
       "emissive": true,
       "version": 1
-    }
+    },
+    {
+      "location": "4cd1558b-c9d5-4a95-a9b9-61e3a33a6f45",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [ "dark" ],
+      "waterspeed": 1.35,
+      "landspeed": 0.875,
+      "stepsize": 0.7,
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.8,
+      "breathemode": "ANY",
+      "maxhealth": 20,
+      "canglide": false,
+      "animation": { "swimtail": true },
+      "version": 1
+    },
   ],
   "toadd": [
   ]
