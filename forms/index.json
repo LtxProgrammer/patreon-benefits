@@ -101,6 +101,23 @@
       "canglide": false,
       "animation": { "swimtail": true },
       "version": 1
+    },
+    {
+      "location": "70becc37-360c-49fa-92ed-ef4cc5cc7cfc",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [],
+      "waterspeed": 0.9,
+      "landspeed": 1.05,
+      "stepsize": 0.7,
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.8,
+      "breathemode": "NORMAL",
+      "maxhealth": 20,
+      "canglide": false,
+      "animation": { "swimtail": false },
+      "version": 1
     }
   ],
   "toadd": [
