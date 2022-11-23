@@ -16,7 +16,13 @@
       "maxhealth": 20,
       "canglide": false,
       "animation": { "swimtail": true },
-      "version": 1
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 0.875,
+        "swimSpeed": 1.35,
+        "breatheMode": "ANY"
+      }
     },
     {
       "location": "b76b1e70-3da5-4f2f-9738-5327923d5e94",
@@ -32,7 +38,12 @@
       "breathemode": "NORMAL",
       "maxhealth": 20,
       "canglide": false,
-      "version": 1
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.075,
+        "swimSpeed": 0.875
+      }
     },
     {
       "location": "141024f4-43bf-4a63-a8c4-cfe1f4ba2bc2",
@@ -49,7 +60,13 @@
       "maxhealth": 20,
       "canglide": true,
       "animation": { "hastail": false, "haswings": false },
-      "version": 1
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.0,
+        "swimSpeed": 0.875,
+        "canGlide": true
+      }
     },
     {
       "location": "ca03e217-a7c0-4a05-851e-e14c92d6d400",
@@ -65,7 +82,12 @@
       "breathemode": "NORMAL",
       "maxhealth": 20,
       "canglide": false,
-      "version": 1
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.09,
+        "swimSpeed": 0.85
+      }
     },
     {
       "location": "ce1b80f0-85f6-479a-a96b-76abc0e02cde",
@@ -83,7 +105,13 @@
       "canglide": true,
       "animation": { "haswings": true },
       "emissive": true,
-      "version": 1
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.005,
+        "swimSpeed": 0.895,
+        "canGlide": true
+      }
     },
     {
       "location": "4cd1558b-c9d5-4a95-a9b9-61e3a33a6f45",
@@ -100,7 +128,13 @@
       "maxhealth": 20,
       "canglide": false,
       "animation": { "swimtail": true },
-      "version": 1
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 0.875,
+        "swimSpeed": 1.35,
+        "breatheMode": "ANY"
+      }
     },
     {
       "location": "70becc37-360c-49fa-92ed-ef4cc5cc7cfc",
@@ -117,7 +151,13 @@
       "maxhealth": 20,
       "canglide": false,
       "animation": { "swimtail": false },
-      "version": 1
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.05,
+        "swimSpeed": 0.9,
+        "canClimb": true
+      }
     }
   ],
   "toadd": [
