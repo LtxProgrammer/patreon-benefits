@@ -156,7 +156,32 @@
       "variant": {
         "groundSpeed": 1.05,
         "swimSpeed": 0.9,
-        "canClimb": true
+        "canClimb": true,
+        "nightVision": true
+      }
+    },
+    {
+      "location": "ed7d1c12-9d0e-4251-94dd-887856ee8b26",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [],
+      "waterspeed": 0.9,
+      "landspeed": 1.05,
+      "stepsize": 0.7,
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.8,
+      "breathemode": "NORMAL",
+      "maxhealth": 20,
+      "canglide": false,
+      "animation": { "swimtail": false },
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.05,
+        "swimSpeed": 0.9,
+        "reducedFall": true,
+        "jumpStrength": 1.75
       }
     }
   ],
