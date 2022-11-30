@@ -233,6 +233,55 @@
         "nightVision": true,
         "additionalHealth": 8
       }
+    },
+    {
+      "location": "a5e95b2f-08b8-4bdb-bcd7-7ce325804352",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [ "gray", "white", "white", "white", "white" ],
+      "waterspeed": 1.1,
+      "landspeed": 1.1,
+      "stepsize": 0.7,
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "breathemode": "NORMAL",
+      "maxhealth": 28,
+      "canglide": false,
+      "animation": { "swimtail": false },
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.1,
+        "swimSpeed": 1.1,
+        "reducedFall": true,
+        "nightVision": true,
+        "additionalHealth": 8
+      }
+    },
+    {
+      "location": "d1bd63fe-13ed-457f-a39a-1efac9179f06",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [ "#919191", "#fcee72", "#4f4f4f", "#919191", "#fcee72", "#4f4f4f", "#e06861", "#5baff2" ],
+      "waterspeed": 0.95,
+      "landspeed": 1.1,
+      "stepsize": 0.7,
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "breathemode": "NORMAL",
+      "maxhealth": 28,
+      "canglide": false,
+      "animation": { "swimtail": false },
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.1,
+        "swimSpeed": 0.95,
+        "nightVision": true,
+        "additionalHealth": 8
+      }
     }
   ],
   "toadd": [
