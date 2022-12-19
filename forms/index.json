@@ -257,6 +257,29 @@
         "nightVision": true,
         "additionalHealth": 8
       }
+    },
+    {
+      "location": "277f2f62-42f0-45dd-97ae-fcba904bf088",
+      "type": "DARK_LATEX",
+      "mode": "REPLICATION",
+      "particles": [ "dark" ],
+      "waterspeed": 1.35,
+      "landspeed": 0.875,
+      "stepsize": 0.7,
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "breathemode": "ANY",
+      "maxhealth": 4,
+      "canglide": false,
+      "animation": { "swimtail": true },
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 0.875,
+        "swimSpeed": 1.35,
+        "breatheMode": "ANY"
+      }
     }
   ],
   "toadd": [
