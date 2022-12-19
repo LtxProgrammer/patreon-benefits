@@ -115,7 +115,7 @@
     },
     {
       "location": "4cd1558b-c9d5-4a95-a9b9-61e3a33a6f45",
-      "type": "NEUTRAL",
+      "type": "DARK_LATEX",
       "mode": "REPLICATION",
       "particles": [ "dark" ],
       "waterspeed": 1.35,
@@ -131,6 +131,7 @@
       "version": 1,
       
       "variant": {
+        "latexType": "DARK_LATEX",
         "groundSpeed": 0.875,
         "swimSpeed": 1.35,
         "breatheMode": "ANY"
@@ -273,9 +274,11 @@
       "maxhealth": 4,
       "canglide": false,
       "animation": { "swimtail": true },
+      "emissive": true,
       "version": 1,
       
       "variant": {
+        "latexType": "DARK_LATEX",
         "groundSpeed": 0.875,
         "swimSpeed": 1.35,
         "breatheMode": "ANY"
