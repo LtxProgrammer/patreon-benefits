@@ -133,7 +133,7 @@
       "variant": {
         "latexType": "DARK_LATEX",
         "groundSpeed": 0.875,
-        "swimSpeed": 1.35,
+        "swimSpeed": 1.4,
         "breatheMode": "ANY"
       }
     },
@@ -281,7 +281,7 @@
       "variant": {
         "latexType": "DARK_LATEX",
         "groundSpeed": 0.875,
-        "swimSpeed": 1.35,
+        "swimSpeed": 1.4,
         "breatheMode": "ANY"
       }
     },
@@ -290,8 +290,8 @@
       "type": "NEUTRAL",
       "mode": "REPLICATION",
       "particles": [ "#dc2e00" ],
-      "waterspeed": 1.35,
-      "landspeed": 0.875,
+      "waterspeed": 0.6,
+      "landspeed": 1.1,
       "stepsize": 0.7,
       "shadowsize": 0.5,
       "width": 0.7,
@@ -306,6 +306,30 @@
         "groundSpeed": 1.1,
         "swimSpeed": 0.6,
         "breatheMode": "WEAK",
+        "reducedFall": true
+      }
+    },
+    {
+      "location": "3fe2550f-b47b-4c9b-98ac-265ec4dc443d",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [],
+      "waterspeed": 1.35,
+      "landspeed": 0.875,
+      "stepsize": 0.7,
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "breathemode": "NORMAL",
+      "maxhealth": 8,
+      "canglide": false,
+      "animation": { "swimtail": false },
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.15,
+        "swimSpeed": 0.6,
+        "additionalHealth": 8,
         "reducedFall": true
       }
     }
