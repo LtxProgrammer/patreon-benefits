@@ -232,7 +232,8 @@
         "swimSpeed": 1.1,
         "reducedFall": true,
         "nightVision": true,
-        "additionalHealth": 8
+        "additionalHealth": 8,
+        "scares": [ "net.minecraft.world.entity.monster.Creeper" ]
       }
     },
     {
