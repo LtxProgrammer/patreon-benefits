@@ -284,6 +284,30 @@
         "swimSpeed": 1.35,
         "breatheMode": "ANY"
       }
+    },
+    {
+      "location": "a3a5e0c6-a10d-44f7-9906-a6da40c74d99",
+      "type": "NEUTRAL",
+      "mode": "REPLICATION",
+      "particles": [ "#dc2e00" ],
+      "waterspeed": 1.35,
+      "landspeed": 0.875,
+      "stepsize": 0.7,
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "breathemode": "NORMAL",
+      "maxhealth": 4,
+      "canglide": false,
+      "animation": { "swimtail": false },
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.1,
+        "swimSpeed": 0.6,
+        "breatheMode": "WEAK",
+        "reducedFall": true
+      }
     }
   ],
   "toadd": [
