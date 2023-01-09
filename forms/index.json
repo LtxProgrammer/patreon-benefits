@@ -290,7 +290,7 @@
       "type": "NEUTRAL",
       "mode": "ABSORPTION",
       "particles": [ "#dc2e00" ],
-      "waterspeed": 0.6,
+      "waterspeed": 0.7,
       "landspeed": 1.1,
       "stepsize": 0.7,
       "shadowsize": 0.5,
@@ -304,7 +304,7 @@
       
       "variant": {
         "groundSpeed": 1.1,
-        "swimSpeed": 0.6,
+        "swimSpeed": 0.7,
         "breatheMode": "WEAK",
         "reducedFall": true
       }
