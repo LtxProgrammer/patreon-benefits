@@ -332,8 +332,31 @@
         "additionalHealth": 8,
         "reducedFall": true
       }
+    },
+    {
+      "location": "97a7de4e-12c9-47b4-b134-17d63e2d7dbf",
+      "type": "NEUTRAL",
+      "mode": "ABSORPTION",
+      "particles": [ "dark" ],
+      "waterspeed": 1.4,
+      "landspeed": 0.875,
+      "stepsize": 0.7,
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "breathemode": "STRONG",
+      "maxhealth": 4,
+      "canglide": true,
+      "animation": { "haswings": true, "swimtail": true },
+      "version": 1,
+      "emissive": true,
+      
+      "variant": {
+        "groundSpeed": 0.875,
+        "swimSpeed": 1.4,
+        "breatheMode": "STRONG",
+        "canGlide": true
+      }
     }
-  ],
-  "toadd": [
   ]
 }
