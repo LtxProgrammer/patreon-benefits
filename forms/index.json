@@ -237,6 +237,20 @@
         "breatheMode": "STRONG",
         "canGlide": true
       }
+    },
+    {
+      "location": "de1a9382-484b-4185-ab31-1d49400a481a",
+      "particles": [ "#405ba4", "#405ba4", "#405ba4", "#405ba4", "#84a5ff" ],
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "animation": { "swimtail": false },
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.1,
+        "swimSpeed": 0.95
+      }
     }
   ]
 }
