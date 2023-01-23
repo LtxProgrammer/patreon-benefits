@@ -248,6 +248,7 @@
       "version": 1,
       
       "variant": {
+        "additionalHealth": 12,
         "groundSpeed": 1.1,
         "swimSpeed": 0.95
       }
