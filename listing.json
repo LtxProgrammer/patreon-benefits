@@ -247,6 +247,10 @@
     {
       "uuid": "c4a67c10-3c5c-4610-b813-2b6a35edcdb4",
       "tier": 0
+    },
+    {
+      "uuid": "ddd3bb3f-e3f0-413f-905f-d9cfa21eb2b5",
+      "tier": 3
     }
   ]
 }
