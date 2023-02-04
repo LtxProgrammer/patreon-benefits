@@ -252,6 +252,21 @@
         "groundSpeed": 1.1,
         "swimSpeed": 0.95
       }
+    },
+    {
+      "location": "5a4ac11c-9580-4dc4-b404-00aff80111d2",
+      "particles": [ "white" ],
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "animation": { "swimtail": false },
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.1,
+        "swimSpeed": 0.85,
+        "additionalHealth": 8
+      }
     }
   ]
 }
