@@ -267,6 +267,23 @@
         "swimSpeed": 0.85,
         "additionalHealth": 8
       }
+    },
+    {
+      "location": "96c441a4-5b4f-4a94-b570-c0cb02ff6dad",
+      "particles": [ "gray", "gray", "gray", "gray", "white" ],
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "animation": { "swimtail": true },
+      "oldModelRig": false,
+      "version": 2,
+      
+      "variant": {
+        "groundSpeed": 0.95,
+        "swimSpeed": 1.15,
+        "breatheMode": "ANY",
+        "additionalHealth": 10
+      }
     }
   ]
 }
