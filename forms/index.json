@@ -276,7 +276,7 @@
       "height": 1.95,
       "animation": { "swimtail": true },
       "oldModelRig": false,
-      "version": 2,
+      "version": 3,
       
       "variant": {
         "groundSpeed": 0.95,
