@@ -8,6 +8,8 @@
       "width": 0.7,
       "height": 1.95,
       "animation": { "swimtail": true },
+      "primaryColor": "gray",
+      "secondaryColor": "white",
       "version": 1,
       
       "variant": {
@@ -22,6 +24,8 @@
       "shadowsize": 0.6,
       "width": 0.7,
       "height": 1.95,
+      "primaryColor": "#FEDD7C",
+      "secondaryColor": "#FEFAEA",
       "version": 1,
       
       "variant": {
@@ -50,6 +54,8 @@
       "shadowsize": 0.45,
       "width": 0.7,
       "height": 1.5,
+      "primaryColor": "#FECDA2",
+      "secondaryColor": "#C97FD4",
       "version": 1,
       
       "variant": {
@@ -65,6 +71,8 @@
       "height": 1.95,
       "animation": { "haswings": true },
       "emissive": true,
+      "primaryColor": "DARK",
+      "secondaryColor": "BLACK",
       "version": 1,
       
       "variant": {
@@ -80,6 +88,8 @@
       "width": 0.7,
       "height": 1.95,
       "animation": { "swimtail": true },
+      "primaryColor": "DARK",
+      "secondaryColor": "BLACK",
       "version": 1,
       
       "variant": {
@@ -128,6 +138,8 @@
       "width": 0.7,
       "height": 1.95,
       "animation": { "swimtail": true },
+      "primaryColor": "white",
+      "secondaryColor": "gray",
       "version": 1,
       
       "variant": {
@@ -146,6 +158,8 @@
       "width": 0.7,
       "height": 1.95,
       "animation": { "swimtail": false },
+      "primaryColor": "white",
+      "secondaryColor": "gray",
       "version": 1,
       
       "variant": {
@@ -163,6 +177,8 @@
       "width": 0.7,
       "height": 1.95,
       "animation": { "swimtail": false },
+      "primaryColor": "#919191",
+      "secondaryColor": "#fcee72",
       "version": 1,
       
       "variant": {
@@ -180,6 +196,8 @@
       "height": 1.95,
       "animation": { "swimtail": true },
       "emissive": true,
+      "primaryColor": "DARK",
+      "secondaryColor": "BLACK",
       "version": 1,
       
       "variant": {
@@ -196,6 +214,8 @@
       "width": 0.7,
       "height": 1.95,
       "animation": { "swimtail": false },
+      "primaryColor": "#dc2e00",
+      "secondaryColor": "#dc2e00",
       "version": 1,
       
       "variant": {
@@ -229,6 +249,8 @@
       "height": 1.95,
       "animation": { "haswings": true, "swimtail": true },
       "version": 1,
+      "primaryColor": "dark",
+      "secondaryColor": "dark",
       "emissive": true,
       
       "variant": {
@@ -245,6 +267,8 @@
       "width": 0.7,
       "height": 1.95,
       "animation": { "swimtail": false },
+      "primaryColor": "#405ba4",
+      "secondaryColor": "#84a5ff",
       "version": 1,
       
       "variant": {
@@ -276,6 +300,27 @@
       "height": 1.95,
       "animation": { "swimtail": true },
       "oldModelRig": false,
+      "primaryColor": "gray",
+      "secondaryColor": "white",
+      "version": 3,
+      
+      "variant": {
+        "groundSpeed": 0.95,
+        "swimSpeed": 1.15,
+        "breatheMode": "ANY",
+        "additionalHealth": 10
+      }
+    },
+    {
+      "location": "ce542cde-044c-4665-8f49-17245e1a3209",
+      "particles": [ "#ffafef", "#ffafef", "#ffafef", "#ffafef", "white" ],
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "animation": { "swimtail": true },
+      "oldModelRig": false,
+      "primaryColor": "#ffafef",
+      "secondaryColor": "white",
       "version": 3,
       
       "variant": {
