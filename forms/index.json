@@ -160,7 +160,8 @@
       "animation": { "swimtail": false },
       "primaryColor": "white",
       "secondaryColor": "gray",
-      "version": 1,
+      "oldModelRig": false,
+      "version": 3,
       
       "variant": {
         "groundSpeed": 1.1,
