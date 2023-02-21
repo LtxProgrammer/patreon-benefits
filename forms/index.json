@@ -359,13 +359,13 @@
           "id": "default",
           "shadowsize": 0.5,
           "animation": { "swimtail": false },
-          "oldModelRig": false,
+          "oldModelRig": false
         },
         {
           "id": "half",
           "shadowsize": 0.5,
           "animation": { "swimtail": false },
-          "oldModelRig": false,
+          "oldModelRig": false
         }
       ],
       
