@@ -401,6 +401,7 @@
       "width": 0.8,
       "height": 2.1,
       "animation": { "swimtail": false },
+      "oldModelRig": false,
       "emissive": true,
       "primaryColor": "WHITE",
       "secondaryColor": "#f1acfd",
