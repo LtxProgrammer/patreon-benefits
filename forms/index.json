@@ -372,8 +372,26 @@
       "variant": {
         "groundSpeed": 1.1,
         "swimSpeed": 0.95,
-        "breatheMode": "ANY",
         "additionalHealth": 8
+      }
+    },
+    {
+      "location": "f475689b-fccc-416e-a2c5-ca512d331f8e",
+      "particles": [ "#272626", "#272626", "#272626", "#7b7777", "#7b7777" ],
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "animation": { "swimtail": true },
+      "oldModelRig": false,
+      "primaryColor": "#272626",
+      "secondaryColor": "#7b7777",
+      "version": 3,
+      
+      "variant": {
+        "groundSpeed": 0.925,
+        "swimSpeed": 1.25,
+        "breatheMode": "ANY",
+        "additionalHealth": 10
       }
     }
   ]
