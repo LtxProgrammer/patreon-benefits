@@ -393,6 +393,26 @@
         "breatheMode": "ANY",
         "additionalHealth": 10
       }
+    },
+    {
+      "location": "91c82b61-06d3-49c8-a538-31759bc1e1d2",
+      "particles": [ "white" ],
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "animation": { "swimtail": true },
+      "emissive": true,
+      "primaryColor": "WHITE",
+      "secondaryColor": "#f1acfd",
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 0.925,
+        "swimSpeed": 1.1,
+        "breatheMode": "ANY",
+        "additionalHealth": 10,
+        "abilities": [ "changed:create_inkball" ]
+      }
     }
   ]
 }
