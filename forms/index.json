@@ -414,6 +414,24 @@
         "additionalHealth": 10,
         "abilities": [ "changed:create_inkball" ]
       }
+    },
+    {
+      "location": "0b3769ec-2d8a-4a7a-b0fa-326e05988e15",
+      "particles": [ "#f7aebe", "#f7aebe", "#f7aebe", "#ffffff" ],
+      "shadowsize": 0.5,
+      "width": 0.9,
+      "height": 2.1,
+      "animation": { "swimtail": false },
+      "oldModelRig": false,
+      "primaryColor": "#f2aaba",
+      "secondaryColor": "#d1626d",
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.1,
+        "swimSpeed": 0.98,
+        "additionalHealth": 8
+      }
     }
   ]
 }
