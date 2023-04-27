@@ -472,8 +472,9 @@
       "version": 1,
       
       "variant": {
-        "groundSpeed": 0.925,
-        "swimSpeed": 1.1,
+        "latexType": "DARK_LATEX",
+        "groundSpeed": 1.075,
+        "swimSpeed": 0.875
         "additionalHealth": 8,
       }
     }
