@@ -487,6 +487,7 @@
       "animation": { "haswingsv2": true },
       "primaryColor": "#f4fbf7",
       "secondaryColor": "#9adb7c",
+      "oldModelRig": false,
       "version": 1,
       
       "variant": {
