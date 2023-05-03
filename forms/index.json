@@ -477,6 +477,23 @@
         "swimSpeed": 0.875,
         "additionalHealth": 8
       }
+    },
+    {
+      "location": "6da735eb-72e2-44d2-b9f1-8f8a5531bd4e",
+      "particles": [ "#f4fbf7", "#f4fbf7", "#9adb7c" ],
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "animation": { "haswingsv2": true },
+      "primaryColor": "#f4fbf7",
+      "secondaryColor": "#9adb7c",
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.005,
+        "swimSpeed": 0.895,
+        "canGlide": true
+      }
     }
   ]
 }
