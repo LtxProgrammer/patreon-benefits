@@ -498,6 +498,24 @@
         "swimSpeed": 0.895,
         "canGlide": true
       }
+    },
+    {
+      "location": "a1159e9e-e8b5-41f0-b769-95cff0591b7b",
+      "particles": [ "#0d8698" ],
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "animation": {},
+      "primaryColor": "#0d8698",
+      "secondaryColor": "#1c1c1e",
+      "oldModelRig": false,
+      "hipOffset": 0.0,
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.005,
+        "swimSpeed": 0.895
+      }
     }
   ]
 }
