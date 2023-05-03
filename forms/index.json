@@ -488,6 +488,7 @@
       "primaryColor": "#f4fbf7",
       "secondaryColor": "#9adb7c",
       "oldModelRig": false,
+      "hipOffset": 0.0,
       "version": 1,
       
       "variant": {
