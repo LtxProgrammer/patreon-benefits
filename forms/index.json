@@ -516,6 +516,26 @@
         "groundSpeed": 1.005,
         "swimSpeed": 0.895
       }
+    },
+    {
+      "location": "a1159e9e-e8b5-41f0-b769-95cff0591b7b",
+      "particles": [ "#555a5c" ],
+      "hairColor": [ "#292c2d" ],
+      "hairStyles": "female",
+      "shadowsize": 0.5,
+      "width": 0.7,
+      "height": 1.95,
+      "animation": {},
+      "primaryColor": "#9b9fa1",
+      "secondaryColor": "#555a5c",
+      "oldModelRig": false,
+      "hipOffset": 0.0,
+      "version": 1,
+      
+      "variant": {
+        "groundSpeed": 1.005,
+        "swimSpeed": 0.895
+      }
     }
   ]
 }
