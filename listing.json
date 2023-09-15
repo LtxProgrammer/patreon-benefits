@@ -242,7 +242,7 @@
     },
     {
       "uuid": "0b3769ec-2d8a-4a7a-b0fa-326e05988e15",
-      "tier": 0
+      "tier": 1
     },
     {
       "uuid": "c286c855-c3b7-476c-83a6-8fdf11a4fdcb",
@@ -317,19 +317,11 @@
       "tier": 0
     },
     {
-      "uuid": "d95e0e32-301f-43a2-a68a-2d59ec699fc1",
-      "tier": 0
-    },
-    {
       "uuid": "164a5cbc-f8c9-45c4-b3ac-91816d9b81c7",
       "tier": 0
     },
     {
       "uuid": "2ac0bdb2-69ab-432b-82cb-e2b1bff1f771",
-      "tier": 0
-    },
-    {
-      "uuid": "6133d47e-8921-49a5-b81f-68cdb8e3bf11",
       "tier": 0
     },
     {
@@ -493,19 +485,11 @@
       "tier": 0
     },
     {
-      "uuid": "1cc4925c-baae-4ce9-90d3-04669e546932",
-      "tier": 0
-    },
-    {
       "uuid": "bd11ffcb-4520-4b84-84e5-ff3cbc0a4b4a",
       "tier": 4
     },
     {
       "uuid": "6552cbce-8961-4965-9aeb-b0c050c648fb",
-      "tier": 0
-    },
-    {
-      "uuid": "e0d5ebc1-b6f8-4ce8-8f46-9ddc6835010b",
       "tier": 0
     },
     {
