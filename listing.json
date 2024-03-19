@@ -50,7 +50,7 @@
     },
     {
       "uuid": "ce1b80f0-85f6-479a-a96b-76abc0e02cde",
-      "tier": 3
+      "tier": 4
     },
     {
       "uuid": "ca03e217-a7c0-4a05-851e-e14c92d6d400",
@@ -398,7 +398,7 @@
     },
     {
       "uuid": "8f8f595a-ee48-4b11-b78a-19c66de865ea",
-      "tier": 0
+      "tier": 4
     },
     {
       "uuid": "831ffa53-6f84-4d59-b77a-44a5242f9ab2",
@@ -542,6 +542,14 @@
     },
     {
       "uuid": "dbd57cb7-4f07-4234-9f83-2e3f915ae97b",
+      "tier": 0
+    },
+    {
+      "uuid": "a9250ca5-3eab-4c7d-81eb-a15ae46fe9fc",
+      "tier": 0
+    },
+    {
+      "uuid": "0945bc2b-5a09-4bda-b9e5-6ec5b3f39b60",
       "tier": 0
     }
   ]
