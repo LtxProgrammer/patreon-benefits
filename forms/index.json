@@ -143,12 +143,12 @@
       "version": 1,
       
       "variant": {
-        "groundSpeed": 0.85,
-        "swimSpeed": 1.4,
+        "groundSpeed": 0.785,
+        "swimSpeed": 2.0,
         "breatheMode": "ANY",
         "nightVision": true,
         "additionalHealth": 6,
-        "scares": [ "net.minecraft.world.entity.monster.Creeper" ]
+        "scares": [ "net.minecraft.world.entity.monster.Creeper", "net.minecraft.world.entity.monster.Phantom" ]
       }
     },
     {
